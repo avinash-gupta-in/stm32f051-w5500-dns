@@ -4,7 +4,7 @@ In this example we will use the DNS system to resolve the IP address of
 a host name (domain name like example.com) and then print it on to the
 serial terminal. Thats it.
 
-![W5500 Web Server](https://extremeelectronics.co.in/github/w5500/output_w5500_dns.png.png)
+![W5500 Web Server](https://extremeelectronics.co.in/github/w5500/output_w5500_dns.png)
 
 ## Hardware Details
 
