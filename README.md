@@ -4,7 +4,7 @@ In this example we will use the DNS system to resolve the IP address of
 a host name (domain name like example.com) and then print it on to the
 serial terminal. Thats it.
 
-![W5500 Web Server](https://extremeelectronics.co.in/github/w5500/output_w5500_dns.png)
+![W5500 DNS Example](https://extremeelectronics.co.in/github/w5500/output_w5500_dns.png)
 
 ## Hardware Details
 
@@ -29,7 +29,7 @@ To view the debug output of the program we need a USB to Serial convertor like F
 The debug messages comes out on the TX pin of the USART2 peripheral of the STM32F051. This is **PA2**.
 The baud rate is 38400. User RealTerm to view the outputs.
 
-![real term showing output of http webserver](https://extremeelectronics.co.in/github/w5500/w5500-webserver-realterm.png)
+![W5500 DNS Example](https://extremeelectronics.co.in/github/w5500/output_w5500_dns.png)
 
 You will need ![STM32CubeIDE](https://www.st.com/en/development-tools/stm32cubeide.html) (Free from ST Microelectronics) to compile, build, flash (burn) and debug this project.
 
